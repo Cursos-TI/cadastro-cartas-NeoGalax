@@ -1,0 +1,1 @@
+Conforme descrito no SAVA, adicionei comentário explicando cada função para facilitar a leitura e a correção.

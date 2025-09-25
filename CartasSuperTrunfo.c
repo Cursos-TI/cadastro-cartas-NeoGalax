@@ -24,7 +24,7 @@ int main() {
          - pib: float (bilhões)
          - pontos_tur: inteiro
        Observação: tamanhos das strings foram escolhidos para evitar overflow
-       em entradas razoáveis. Ajuste se desejar suportar nomes maiores.
+       em entradas razoáveis.
     */
 
     /* Variáveis da Carta 1 */

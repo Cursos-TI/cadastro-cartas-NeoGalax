@@ -134,7 +134,7 @@ int main() {
     /* --------------------------
        Exibição dos dados cadastrados
        --------------------------
-       Apresentei cada campo em linha separada com rótulos descritivos.
+       Apresenteib cada campo em linha separada com rótulos descritivos.
        Formatação:
          - Area e PIB com duas casas decimais usando "%.2f".
          - População e pontos turísticos como inteiros.
